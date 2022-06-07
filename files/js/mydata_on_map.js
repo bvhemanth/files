@@ -880,7 +880,7 @@ function memberDetails_place_all_things()
 			"location_timestamp": "2017-05-11T14:32:16.646000Z",
 			"marker_type": "NORMAL"
 		},
-// 		{"location_coordinates": [12.98911,77.66343], "location_timestamp": "2016-04-03T13:35:21.600000Z", "marker_type": "STAY POINT", "stay_duration": {"shift_on_duration": "Aug 15", "start_time": "2015-07-03T08:33:38.700000Z", "end_time": "2016-04-03T13:35:21.600000Z", "shift_off_duration": "Apr 2016"}},
+ 		{"location_coordinates": [12.98911,77.66343], "location_timestamp": "2016-04-03T13:35:21.600000Z", "marker_type": "STAY POINT", "stay_duration": {"shift_on_duration": "Aug 15", "start_time": "2015-07-03T08:33:38.700000Z", "end_time": "2016-04-03T13:35:21.600000Z", "shift_off_duration": "Apr 2016"}},
 // 		{"location_coordinates": [12.98147,77.64415], "location_timestamp": "2017-03-03T13:35:21.600000Z", "marker_type": "STAY POINT", "stay_duration": {"shift_on_duration": "Jun 16", "start_time": "2016-07-03T08:33:38.700000Z", "end_time": "2017-03-03T13:35:21.600000Z", "shift_off_duration": "Mar 2017"}},
 		{"location_coordinates": [12.99547,77.72966], "location_timestamp": "2017-03-03T13:35:21.600000Z", "marker_type": "STAY POINT", "stay_duration": {"shift_on_duration": "Mar 17", "start_time": "2017-03-03T08:33:38.700000Z", "end_time": "2017-04-03T13:35:21.600000Z", "shift_off_duration": "Dec 2017"}},
 		{"location_coordinates":[12.9363817,77.6886881],"location_timestamp": "2021-03-03T13:35:21.600000Z","marker_type": "STAY POINT","stay_duration": {"shift_on_duration": "May 21", "start_time": "2021-06-03T08:33:38.700000Z", "end_time": "2017-04-03T13:35:21.600000Z", "shift_off_duration": "Present"}}]	
